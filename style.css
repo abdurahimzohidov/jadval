@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(94, 61, 170);
+}
+.header{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.header__1{
+    color: gold;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 1000px;
+    margin-left: 20%;
+    padding: 40px;
+    margin: 30px;
+    
+}
